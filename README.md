@@ -1,1 +1,1 @@
-I love Umuzi coding bootcamp
+I love Umuzi Web Dev coding bootcamp
